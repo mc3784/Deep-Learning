@@ -1,0 +1,405 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="821pt" height="2236pt" viewBox="0.00 0.00 820.71 2236.07">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 2232.07)">
+<title>G</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-2232.07 816.705,-2232.07 816.705,4 -4,4"/>
+<!-- n1 -->
+<g id="node1" class="node"><title>n1</title>
+<g id="a_node1">
+</g>
+</g>
+<!-- n2 -->
+
+
+
+
+
+
+
+<!-- n4 -->
+<g id="node4" class="node"><title>n4</title>
+<g id="a_node4">
+</g>
+</g>
+<!-- n4&#45;&gt;n1 -->
+
+<!-- n4&#45;&gt;n2 -->
+
+<!-- n5 -->
+<g id="node5" class="node"><title>n5</title>
+<g id="a_node5">
+</g>
+</g>
+<!-- n5&#45;&gt;n1 -->
+
+<!-- n6 -->
+<g id="node6" class="node"><title>n6</title>
+<g id="a_node6"><a xlink:title="[plotGraph.lua]:92_">
+<ellipse fill="none" stroke="black" cx="233" cy="-509.512" rx="130.692" ry="35.2113"/>
+<text text-anchor="middle" x="233" y="-519.312" font-family="Times,serif" font-size="14.00">Node6</text>
+<text text-anchor="start" x="148.655" y="-505.312" font-family="Times,serif" font-size="14.00">module = nn.CAddTable</text>
+<text text-anchor="middle" x="233" y="-491.312" font-family="Times,serif" font-size="14.00">mapindex = {Node9,Node10}</text>
+</a>
+</g>
+</g>
+<!-- n6&#45;&gt;n3 -->
+
+<!-- n11 -->
+
+<!-- n6&#45;&gt;n11 -->
+
+<!-- n7 -->
+
+<!-- n7&#45;&gt;n4 -->
+
+<!-- n8 -->
+
+<!-- n8&#45;&gt;n5 -->
+
+<!-- n9 -->
+<g id="node9" class="node"><title>n9</title>
+<g id="a_node9"><a xlink:title="[plotGraph.lua]:120_">
+
+
+
+</a>
+</g>
+</g>
+<!-- n9&#45;&gt;n6 -->
+<g id="edge9" class="edge"><title>n9-&gt;n6</title>
+
+
+</g>
+<!-- n15 -->
+<g id="node15" class="node"><title>n15</title>
+<g id="a_node15"><a xlink:title="[plotGraph.lua]:94_">
+<ellipse fill="none" stroke="black" cx="206" cy="-722.933" rx="130.692" ry="35.2113"/>
+<text text-anchor="middle" x="206" y="-732.733" font-family="Times,serif" font-size="14.00">Node15</text>
+<text text-anchor="start" x="121.655" y="-718.733" font-family="Times,serif" font-size="14.00">module = nn.CSubTable</text>
+<text text-anchor="middle" x="206" y="-704.733" font-family="Times,serif" font-size="14.00">mapindex = {Node19,Node9}</text>
+</a>
+</g>
+</g>
+<!-- n9&#45;&gt;n15 -->
+
+<!-- n33 -->
+<g id="node33" class="node"><title>n33</title>
+<g id="a_node33"><a xlink:title="[plotGraph.lua]:79_">
+<ellipse fill="none" stroke="black" cx="186" cy="-1661.35" rx="120.136" ry="25.4118"/>
+<text text-anchor="middle" x="186" y="-1664.15" font-family="Times,serif" font-size="14.00">Node33</text>
+<text text-anchor="middle" x="186" y="-1650.15" font-family="Times,serif" font-size="14.00">module = nn.Linear(1 -&gt; 3)</text>
+</a>
+</g>
+</g>
+<!-- n9&#45;&gt;n33 -->
+<g id="edge41" class="edge"><title>n9-&gt;n33</title>
+
+
+</g>
+<!-- n10 -->
+<g id="node10" class="node"><title>n10</title>
+<g id="a_node10"><a xlink:title="[plotGraph.lua]:93_">
+<ellipse fill="none" stroke="black" cx="233" cy="-616.222" rx="135.591" ry="35.2113"/>
+<text text-anchor="middle" x="233" y="-626.022" font-family="Times,serif" font-size="14.00">Node10</text>
+<text text-anchor="start" x="145.155" y="-612.022" font-family="Times,serif" font-size="14.00">module = nn.CMulTable</text>
+<text text-anchor="middle" x="233" y="-598.022" font-family="Times,serif" font-size="14.00">mapindex = {Node14,Node15}</text>
+</a>
+</g>
+</g>
+<!-- n10&#45;&gt;n6 -->
+<g id="edge10" class="edge"><title>n10-&gt;n6</title>
+<path fill="none" stroke="black" d="M233,-580.646C233,-572.515 233,-563.734 233,-555.228"/>
+<polygon fill="black" stroke="black" points="236.5,-555.052 233,-545.052 229.5,-555.052 236.5,-555.052"/>
+</g>
+<!-- n11&#45;&gt;n7 -->
+
+<!-- n12 -->
+<g id="node12" class="node">
+
+</g>
+<!-- n12&#45;&gt;n8 -->
+
+<!-- n17 -->
+
+<!-- n12&#45;&gt;n17 -->
+
+<!-- n36 -->
+
+<!-- n12&#45;&gt;n36 -->
+
+<!-- n13 -->
+
+<!-- n13&#45;&gt;n9 -->
+
+<!-- n14 -->
+<g id="node14" class="node"><title>n14</title>
+<g id="a_node14"><a xlink:title="[plotGraph.lua]:86_">
+<ellipse fill="none" stroke="black" cx="457" cy="-1023.27" rx="97.4405" ry="25.4118"/>
+<text text-anchor="middle" x="457" y="-1026.07" font-family="Times,serif" font-size="14.00">Node14</text>
+<text text-anchor="middle" x="457" y="-1012.07" font-family="Times,serif" font-size="14.00">module = nn.Sigmoid</text>
+</a>
+</g>
+</g>
+<!-- n14&#45;&gt;n10 -->
+<g id="edge14" class="edge"><title>n14-&gt;n10</title>
+<path fill="none" stroke="black" d="M454.583,-997.724C447.632,-938.456 422.886,-785.21 346,-687.578 335.363,-674.07 321.364,-662.471 306.857,-652.813"/>
+<polygon fill="black" stroke="black" points="308.593,-649.769 298.278,-647.351 304.833,-655.674 308.593,-649.769"/>
+</g>
+<!-- n15&#45;&gt;n10 -->
+<g id="edge15" class="edge"><title>n15-&gt;n10</title>
+<path fill="none" stroke="black" d="M214.841,-687.647C217.009,-679.24 219.359,-670.124 221.627,-661.327"/>
+<polygon fill="black" stroke="black" points="225.032,-662.143 224.139,-651.586 218.253,-660.395 225.032,-662.143"/>
+</g>
+<!-- n16 -->
+<g id="node16" class="node"><title>n16</title>
+<g id="a_node16"><a xlink:title="[[C]]:-1_">
+
+
+
+</a>
+</g>
+</g>
+<!-- n16&#45;&gt;n12 -->
+<g id="edge17" class="edge"><title>n16-&gt;n12</title>
+
+
+</g>
+<!-- n17&#45;&gt;n13 -->
+
+<!-- n18 -->
+<g id="node18" class="node"><title>n18</title>
+<g id="a_node18"><a xlink:title="[plotGraph.lua]:86_">
+<ellipse fill="none" stroke="black" cx="457" cy="-1120.08" rx="109.892" ry="25.4118"/>
+<text text-anchor="middle" x="457" y="-1122.88" font-family="Times,serif" font-size="14.00">Node18</text>
+<text text-anchor="middle" x="457" y="-1108.88" font-family="Times,serif" font-size="14.00">module = nn.SelectTable</text>
+</a>
+</g>
+</g>
+<!-- n18&#45;&gt;n14 -->
+<g id="edge19" class="edge"><title>n18-&gt;n14</title>
+<path fill="none" stroke="black" d="M457,-1094.17C457,-1083.5 457,-1070.85 457,-1059.26"/>
+<polygon fill="black" stroke="black" points="460.5,-1059.01 457,-1049.01 453.5,-1059.01 460.5,-1059.01"/>
+</g>
+<!-- n19 -->
+<g id="node19" class="node"><title>n19</title>
+<g id="a_node19"><a xlink:title="[plotGraph.lua]:87_">
+<ellipse fill="none" stroke="black" cx="206" cy="-819.744" rx="83.6272" ry="25.4118"/>
+<text text-anchor="middle" x="206" y="-822.544" font-family="Times,serif" font-size="14.00">Node19</text>
+<text text-anchor="middle" x="206" y="-808.544" font-family="Times,serif" font-size="14.00">module = nn.Tanh</text>
+</a>
+</g>
+</g>
+<!-- n19&#45;&gt;n15 -->
+<g id="edge20" class="edge"><title>n19-&gt;n15</title>
+<path fill="none" stroke="black" d="M206,-793.834C206,-786.026 206,-777.158 206,-768.423"/>
+<polygon fill="black" stroke="black" points="209.5,-768.3 206,-758.3 202.5,-768.3 209.5,-768.3"/>
+</g>
+<!-- n20 -->
+<g id="node20" class="node"><title>n20</title>
+<g id="a_node20"><a xlink:title="[plotGraph.lua]:84_">
+<ellipse fill="none" stroke="black" cx="391" cy="-1293.9" rx="104.429" ry="25.4118"/>
+<text text-anchor="middle" x="391" y="-1296.7" font-family="Times,serif" font-size="14.00">Node20</text>
+<text text-anchor="middle" x="391" y="-1282.7" font-family="Times,serif" font-size="14.00">module = nn.SplitTable</text>
+</a>
+</g>
+</g>
+<!-- n20&#45;&gt;n18 -->
+<g id="edge23" class="edge"><title>n20-&gt;n18</title>
+<path fill="none" stroke="black" d="M400.456,-1268.28C411.876,-1238.55 431.143,-1188.39 443.966,-1155.01"/>
+<polygon fill="black" stroke="black" points="447.243,-1156.24 447.561,-1145.65 440.708,-1153.73 447.243,-1156.24"/>
+</g>
+<!-- n32 -->
+<g id="node32" class="node"><title>n32</title>
+<g id="a_node32"><a xlink:title="[plotGraph.lua]:85_">
+<ellipse fill="none" stroke="black" cx="267" cy="-1206.99" rx="109.892" ry="25.4118"/>
+<text text-anchor="middle" x="267" y="-1209.79" font-family="Times,serif" font-size="14.00">Node32</text>
+<text text-anchor="middle" x="267" y="-1195.79" font-family="Times,serif" font-size="14.00">module = nn.SelectTable</text>
+</a>
+</g>
+</g>
+<!-- n20&#45;&gt;n32 -->
+<g id="edge40" class="edge"><title>n20-&gt;n32</title>
+<path fill="none" stroke="black" d="M357.116,-1269.7C342.475,-1259.67 325.179,-1247.83 309.674,-1237.21"/>
+<polygon fill="black" stroke="black" points="311.502,-1234.22 301.273,-1231.46 307.547,-1240 311.502,-1234.22"/>
+</g>
+<!-- n21 -->
+<g id="node21" class="node"><title>n21</title>
+<g id="a_node21"><a xlink:title="[plotGraph.lua]:87_">
+<ellipse fill="none" stroke="black" cx="206" cy="-916.555" rx="135.591" ry="35.2113"/>
+<text text-anchor="middle" x="206" y="-926.355" font-family="Times,serif" font-size="14.00">Node21</text>
+<text text-anchor="start" x="118.155" y="-912.355" font-family="Times,serif" font-size="14.00">module = nn.CAddTable</text>
+<text text-anchor="middle" x="206" y="-898.355" font-family="Times,serif" font-size="14.00">mapindex = {Node23,Node24}</text>
+</a>
+</g>
+</g>
+<!-- n21&#45;&gt;n19 -->
+<g id="edge24" class="edge"><title>n21-&gt;n19</title>
+<path fill="none" stroke="black" d="M206,-881.058C206,-872.719 206,-863.803 206,-855.454"/>
+<polygon fill="black" stroke="black" points="209.5,-855.268 206,-845.268 202.5,-855.268 209.5,-855.268"/>
+</g>
+<!-- n22 -->
+<g id="node22" class="node"><title>n22</title>
+<g id="a_node22"><a xlink:title="[plotGraph.lua]:84_">
+<ellipse fill="none" stroke="black" cx="391" cy="-1380.81" rx="118.787" ry="25.4118"/>
+<text text-anchor="middle" x="391" y="-1383.61" font-family="Times,serif" font-size="14.00">Node22</text>
+<text text-anchor="middle" x="391" y="-1369.61" font-family="Times,serif" font-size="14.00">module = nn.Reshape(2x1)</text>
+</a>
+</g>
+</g>
+<!-- n22&#45;&gt;n20 -->
+<g id="edge25" class="edge"><title>n22-&gt;n20</title>
+<path fill="none" stroke="black" d="M391,-1355.25C391,-1347.24 391,-1338.19 391,-1329.59"/>
+<polygon fill="black" stroke="black" points="394.5,-1329.41 391,-1319.41 387.5,-1329.41 394.5,-1329.41"/>
+</g>
+<!-- n23 -->
+<g id="node23" class="node"><title>n23</title>
+<g id="a_node23"><a xlink:title="[plotGraph.lua]:88_">
+<ellipse fill="none" stroke="black" cx="596" cy="-1477.62" rx="94.2992" ry="25.4118"/>
+<text text-anchor="middle" x="596" y="-1480.42" font-family="Times,serif" font-size="14.00">Node23</text>
+<text text-anchor="middle" x="596" y="-1466.42" font-family="Times,serif" font-size="14.00">module = nn.Narrow</text>
+</a>
+</g>
+</g>
+<!-- n23&#45;&gt;n21 -->
+<g id="edge26" class="edge"><title>n23-&gt;n21</title>
+<path fill="none" stroke="black" d="M595.778,-1451.93C595.483,-1416.98 595,-1351.06 595,-1294.9 595,-1294.9 595,-1294.9 595,-1119.08 595,-1059.07 606.369,-1029.38 563,-987.911 531.567,-957.853 430.668,-939.775 344.123,-929.487"/>
+<polygon fill="black" stroke="black" points="344.523,-926.009 334.186,-928.331 343.715,-932.963 344.523,-926.009"/>
+</g>
+<!-- n24 -->
+<g id="node24" class="node"><title>n24</title>
+<g id="a_node24"><a xlink:title="[plotGraph.lua]:89_">
+<ellipse fill="none" stroke="black" cx="206" cy="-1023.27" rx="135.591" ry="35.2113"/>
+<text text-anchor="middle" x="206" y="-1033.07" font-family="Times,serif" font-size="14.00">Node24</text>
+<text text-anchor="start" x="118.155" y="-1019.07" font-family="Times,serif" font-size="14.00">module = nn.CMulTable</text>
+<text text-anchor="middle" x="206" y="-1005.07" font-family="Times,serif" font-size="14.00">mapindex = {Node27,Node28}</text>
+</a>
+</g>
+</g>
+<!-- n24&#45;&gt;n21 -->
+<g id="edge27" class="edge"><title>n24-&gt;n21</title>
+<path fill="none" stroke="black" d="M206,-987.69C206,-979.558 206,-970.778 206,-962.272"/>
+<polygon fill="black" stroke="black" points="209.5,-962.096 206,-952.096 202.5,-962.096 209.5,-962.096"/>
+</g>
+<!-- n25 -->
+<g id="node25" class="node"><title>n25</title>
+<g id="a_node25"><a xlink:title="[plotGraph.lua]:80_">
+<ellipse fill="none" stroke="black" cx="348" cy="-1477.62" rx="135.591" ry="35.2113"/>
+<text text-anchor="middle" x="348" y="-1487.42" font-family="Times,serif" font-size="14.00">Node25</text>
+<text text-anchor="start" x="260.155" y="-1473.42" font-family="Times,serif" font-size="14.00">module = nn.CAddTable</text>
+<text text-anchor="middle" x="348" y="-1459.42" font-family="Times,serif" font-size="14.00">mapindex = {Node29,Node30}</text>
+</a>
+</g>
+</g>
+<!-- n25&#45;&gt;n22 -->
+<g id="edge28" class="edge"><title>n25-&gt;n22</title>
+<path fill="none" stroke="black" d="M363.524,-1442.39C367.517,-1433.59 371.808,-1424.13 375.785,-1415.36"/>
+<polygon fill="black" stroke="black" points="379.004,-1416.74 379.947,-1406.18 372.629,-1413.84 379.004,-1416.74"/>
+</g>
+<!-- n26 -->
+<g id="node26" class="node"><title>n26</title>
+<g id="a_node26"><a xlink:title="[plotGraph.lua]:78_">
+<ellipse fill="none" stroke="black" cx="499" cy="-1661.35" rx="120.136" ry="25.4118"/>
+<text text-anchor="middle" x="499" y="-1664.15" font-family="Times,serif" font-size="14.00">Node26</text>
+<text text-anchor="middle" x="499" y="-1650.15" font-family="Times,serif" font-size="14.00">module = nn.Linear(1 -&gt; 3)</text>
+</a>
+</g>
+</g>
+<!-- n26&#45;&gt;n23 -->
+<g id="edge29" class="edge"><title>n26-&gt;n23</title>
+<path fill="none" stroke="black" d="M546.77,-1637.82C561.836,-1628.28 576.907,-1615.67 586,-1599.89 601.113,-1573.67 602.443,-1538.82 600.683,-1513.21"/>
+<polygon fill="black" stroke="black" points="604.165,-1512.85 599.808,-1503.2 597.192,-1513.46 604.165,-1512.85"/>
+</g>
+<!-- n29 -->
+<g id="node29" class="node"><title>n29</title>
+<g id="a_node29"><a xlink:title="[plotGraph.lua]:81_">
+<ellipse fill="none" stroke="black" cx="483" cy="-1574.43" rx="94.2992" ry="25.4118"/>
+<text text-anchor="middle" x="483" y="-1577.23" font-family="Times,serif" font-size="14.00">Node29</text>
+<text text-anchor="middle" x="483" y="-1563.23" font-family="Times,serif" font-size="14.00">module = nn.Narrow</text>
+</a>
+</g>
+</g>
+<!-- n26&#45;&gt;n29 -->
+<g id="edge37" class="edge"><title>n26-&gt;n29</title>
+<path fill="none" stroke="black" d="M494.372,-1635.79C492.846,-1627.69 491.12,-1618.53 489.482,-1609.84"/>
+<polygon fill="black" stroke="black" points="492.909,-1609.12 487.617,-1599.94 486.03,-1610.41 492.909,-1609.12"/>
+</g>
+<!-- n27 -->
+<g id="node27" class="node"><title>n27</title>
+<g id="a_node27"><a xlink:title="[plotGraph.lua]:85_">
+<ellipse fill="none" stroke="black" cx="232" cy="-1120.08" rx="97.4405" ry="25.4118"/>
+<text text-anchor="middle" x="232" y="-1122.88" font-family="Times,serif" font-size="14.00">Node27</text>
+<text text-anchor="middle" x="232" y="-1108.88" font-family="Times,serif" font-size="14.00">module = nn.Sigmoid</text>
+</a>
+</g>
+</g>
+<!-- n27&#45;&gt;n24 -->
+<g id="edge30" class="edge"><title>n27-&gt;n24</title>
+<path fill="none" stroke="black" d="M225.304,-1094.66C223.094,-1086.6 220.564,-1077.37 218.078,-1068.31"/>
+<polygon fill="black" stroke="black" points="221.437,-1067.32 215.416,-1058.6 214.686,-1069.17 221.437,-1067.32"/>
+</g>
+<!-- n28 -->
+<g id="node28" class="node"><title>n28</title>
+<g id="a_node28"><a xlink:title="[plotGraph.lua]:90_">
+<ellipse fill="none" stroke="black" cx="160" cy="-1380.81" rx="94.2992" ry="25.4118"/>
+<text text-anchor="middle" x="160" y="-1383.61" font-family="Times,serif" font-size="14.00">Node28</text>
+<text text-anchor="middle" x="160" y="-1369.61" font-family="Times,serif" font-size="14.00">module = nn.Narrow</text>
+</a>
+</g>
+</g>
+<!-- n28&#45;&gt;n24 -->
+<g id="edge31" class="edge"><title>n28-&gt;n24</title>
+<path fill="none" stroke="black" d="M148.801,-1355.22C127.264,-1304.15 85.6248,-1183.9 126,-1094.62 131.292,-1082.92 139.599,-1072.39 148.896,-1063.26"/>
+<polygon fill="black" stroke="black" points="151.537,-1065.58 156.526,-1056.24 146.797,-1060.43 151.537,-1065.58"/>
+</g>
+<!-- n29&#45;&gt;n25 -->
+<g id="edge32" class="edge"><title>n29-&gt;n25</title>
+<path fill="none" stroke="black" d="M450.32,-1550.48C435.967,-1540.4 418.721,-1528.29 402.513,-1516.91"/>
+<polygon fill="black" stroke="black" points="404.348,-1513.92 394.153,-1511.04 400.324,-1519.65 404.348,-1513.92"/>
+</g>
+<!-- n30 -->
+<g id="node30" class="node"><title>n30</title>
+<g id="a_node30"><a xlink:title="[plotGraph.lua]:82_">
+<ellipse fill="none" stroke="black" cx="277" cy="-1574.43" rx="94.2992" ry="25.4118"/>
+<text text-anchor="middle" x="277" y="-1577.23" font-family="Times,serif" font-size="14.00">Node30</text>
+<text text-anchor="middle" x="277" y="-1563.23" font-family="Times,serif" font-size="14.00">module = nn.Narrow</text>
+</a>
+</g>
+</g>
+<!-- n30&#45;&gt;n25 -->
+<g id="edge33" class="edge"><title>n30-&gt;n25</title>
+<path fill="none" stroke="black" d="M295.284,-1549.02C301.768,-1540.36 309.264,-1530.35 316.53,-1520.65"/>
+<polygon fill="black" stroke="black" points="319.361,-1522.71 322.554,-1512.6 313.758,-1518.51 319.361,-1522.71"/>
+</g>
+<!-- n31 -->
+
+<!-- n31&#45;&gt;n26 -->
+<g id="edge34" class="edge"><title>n31-&gt;n26</title>
+
+
+</g>
+<!-- n32&#45;&gt;n27 -->
+<g id="edge35" class="edge"><title>n32-&gt;n27</title>
+<path fill="none" stroke="black" d="M256.877,-1181.43C253.466,-1173.16 249.599,-1163.77 245.947,-1154.91"/>
+<polygon fill="black" stroke="black" points="249.148,-1153.49 242.101,-1145.58 242.676,-1156.16 249.148,-1153.49"/>
+</g>
+<!-- n33&#45;&gt;n28 -->
+<g id="edge36" class="edge"><title>n33-&gt;n28</title>
+<path fill="none" stroke="black" d="M180.356,-1635.76C178.045,-1624.83 175.554,-1611.77 174,-1599.89 165.588,-1535.56 162.167,-1459.86 160.823,-1416.69"/>
+<polygon fill="black" stroke="black" points="164.314,-1416.34 160.524,-1406.44 157.317,-1416.54 164.314,-1416.34"/>
+</g>
+<!-- n33&#45;&gt;n30 -->
+<g id="edge38" class="edge"><title>n33-&gt;n30</title>
+<path fill="none" stroke="black" d="M211.834,-1636.24C221.897,-1626.85 233.55,-1615.98 244.195,-1606.05"/>
+<polygon fill="black" stroke="black" points="246.807,-1608.39 251.731,-1599.01 242.032,-1603.28 246.807,-1608.39"/>
+</g>
+
+
+
+
+
+
+
+
+
+
+</g>
+</svg>
